@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Poliziescu
-- 👀 I’m interested in ...FIGA
 - 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...APPLICATIONS
 - 📫 How to reach me ...VIA EMAIL
